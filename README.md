@@ -12,8 +12,8 @@ Racing Pack created/distributed by [Kenney](www.kenney.nl), License: Creative Co
 ## Installing and running
 To play the game you need install pygame:
 
-- pip3 install pygame
+    pip3 install pygame
 
 To start the game run:
 
-- on_taxi.py
+    on_taxi.py
